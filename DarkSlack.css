@@ -750,6 +750,10 @@ input[disabled] {
 
 .modal_input_note, .input_note, #omnibox #omnibox_help, #fs_modal .fs_modal_btn, #omnibox .omnibox_item .subtext, #omnibox .omnibox_item.selected .subtext {
     color: #6ecff6 }
+
+#omnibox #omnibox_results .omnibox_item.selected {
+    background: #6698C8;
+    color: #fff}
     
 #lightbox_dialog.modal .icon_new_window {
     color: #6ecff6!important }
