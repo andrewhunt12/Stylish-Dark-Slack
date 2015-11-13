@@ -151,7 +151,7 @@ input[type="text"]:focus, input[type="text"]:active, input[type="number"]:focus,
     left: -12px;
     top: 2px; }
 
-.dense_theme .file_reference a:not(.member):not(.member_name):not(.icon):not(.timestamp):not(.preview_main_action):not(.preview_show_more):not(.file_preview_action), .inline_attachment a span:hover, .inline_attachment a span:active, .msg_inline_video_buttons_div a, .msg_inline_video_buttons_div a:visited, .inline_attachment .attachment_footer a:hover, .inline_attachment .attachment_footer a:active, .inline_attachment .attachment_ts a:hover, .inline_attachment .attachment_ts a:active, .dense_theme .file_reference:hover a:hover:not(.member):not(.member_name):not(.icon):not(.timestamp) {
+.dense_theme .file_reference a:not(.member):not(.member_name):not(.icon):not(.timestamp):not(.preview_main_action):not(.preview_show_more):not(.file_preview_action), .inline_attachment a span:hover, .inline_attachment a span:active, .msg_inline_video_buttons_div a, .msg_inline_video_buttons_div a:visited, .inline_attachment .attachment_footer a:hover, .inline_attachment .attachment_footer a:active, .inline_attachment .attachment_ts a:hover, .inline_attachment .attachment_ts a:active, .dense_theme .file_reference:hover a:hover:not(.member):not(.member_name):not(.icon):not(.timestamp),.light_theme ts-message .message_content .message_sender {
     color: #6ecff6!important }
 
 .light_theme .msg_inline_img_holder, .light_theme .msg_inline_video_holder, .dense_theme .msg_inline_img, .dense_theme .msg_inline_video {
